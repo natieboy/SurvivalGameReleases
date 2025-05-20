@@ -15,6 +15,9 @@ Click on "Code", then click "Download zip". Then, extract the zip to a desired f
 **Space** makes you jump
 **Left Shift** makes you run
 
+## Known Bugs
+- Placing yourself in terrain (Digging down, placing terrain above you) and then digging down makes you fall through the map! **I am trying to fix this, expect a fix soon!**
+
 ## Update history
 **0.1 Alpha - 20/05/2025**
 An editable infinite smooth terrain. This will later grow out to an amazing game!
